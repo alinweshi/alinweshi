@@ -14,14 +14,38 @@
 ---
 
 ## 🛠️ Tech Stack
+
 **Languages & Frameworks**  
-`PHP` · `Laravel` · `Symfony` · `Livewire` · `JavaScript` · `Vue.js 3` · `HTML5` · `CSS3` · `Bootstrap`
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)  
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)  
+![Livewire](https://img.shields.io/badge/Livewire-4E56A6?style=for-the-badge&logo=laravel&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)  
+
+---
 
 **Databases**  
-`MySQL` · `DBMS` · `JSON`
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+![DBMS](https://img.shields.io/badge/DBMS-003B57?style=for-the-badge&logo=databricks&logoColor=white)  
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)  
+
+---
 
 **Tools & Practices**  
-`Git` · `REST APIs` · `MVC` · `SOLID` · `Docker` · `Linux` · `Webhooks` · `API Gateways` · `CI/CD (GitHub Actions)`
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=postman&logoColor=white)  
+![MVC](https://img.shields.io/badge/MVC-FF6F00?style=for-the-badge&logoColor=white)  
+![SOLID](https://img.shields.io/badge/SOLID-4285F4?style=for-the-badge&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
+![Webhooks](https://img.shields.io/badge/Webhooks-FF0000?style=for-the-badge&logo=webhooks&logoColor=white)  
+![API Gateway](https://img.shields.io/badge/API%20Gateway-009688?style=for-the-badge&logo=kong&logoColor=white)  
+![CI/CD](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)  
+
 
 ---
 
