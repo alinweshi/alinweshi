@@ -26,18 +26,18 @@
 ---
 
 ## 🚀 Projects
-- 🛒 [Electronics-Shop]( https://github.com/alinweshi/Electronics-Shop) – E-commerce platform with filtering, cart & secure payments  
+- 🛒 [Electronics-Shop](https://github.com/alinweshi/Electronics-Shop) – E-commerce platform with filtering, cart & secure payments  
 - 👥 [HRMS](https://github.com/alinweshi/Compu_Lap) – Employee records, attendance & payroll system  
 - 🎁 Reward-Points – QR-based loyalty program (private company project) → boosted customer engagement by **25%**  
-- 🚌 [Green Bus] – (private company project)– Bus scheduling & ticketing system  
-- 📰 [Blog-News](ضع لينك الريبو) – Dynamic blogging platform with CRUD  
+- 🚌 Green Bus – (private company project) Bus scheduling & ticketing system  
+- 📰 [Blog-News](https://github.com/alinweshi/Blog-News) – Dynamic blogging platform with CRUD  
 
 👉 Check all my projects here: [GitHub Profile](https://github.com/alinweshi)
 
 ---
 
 ## 📄 Resume & Links
-- [Resume (PDF)] (https://drive.google.com/drive/folders/1oGSYbQon3VGmpW0UFLH0qymkmmA5uVXC))  
+- [Resume (PDF)](https://drive.google.com/drive/folders/1oGSYbQon3VGmpW0UFLH0qymkmmA5uVXC)  
 - [LinkedIn](https://www.linkedin.com/in/ali-nweshi-562191161/)  
 - [GitHub](https://github.com/alinweshi)  
 
@@ -48,6 +48,15 @@
 - Laravel & Advanced Topics  
 - Database Fundamentals – MySQL  
 - HTML5, CSS, JavaScript, Vue.js 3  
+
+---
+
+## 📞 Contact Me
+- 📍 Cairo, Egypt  
+- 📱 Mobile: **01091092848**  
+- 📧 Email: **alinweshi@gmail.com**  
+- 🌐 Portfolio: [GitHub – alinweshi](https://github.com/alinweshi)  
+- 🔗 LinkedIn: [Ali Nweshi](https://www.linkedin.com/in/ali-nweshi-562191161/)  
 
 ---
 
